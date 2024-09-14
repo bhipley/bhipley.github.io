@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bhipley.github.io/sitemap.html.gz
+Sitemap: https://bhipley.github.io/app/sitemap.html.gz
+Sitemap: https://bhipley.github.io/assets/sitemap.html.gz
+Sitemap: https://bhipley.github.io/css/sitemap.html.gz
+Sitemap: https://bhipley.github.io/includes/sitemap.html.gz
+Sitemap: https://bhipley.github.io/item/sitemap.html.gz
+Sitemap: https://bhipley.github.io/src/sitemap.html.gz
